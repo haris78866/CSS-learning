@@ -1,0 +1,45 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1{
+    border: 2px  dashed red;
+    width: 50%;
+    
+    padding: 1.5rem;
+}
+
+.container {
+
+    border: 2px dashed red;
+   
+    font-size: 1.5rem;
+    /*margin: 1.5em;
+    margin-top: 1.5em;
+    margin-right: 1.5em;
+    margin-left: 1.5em;
+    margin-bottom : 1.5em ; */
+    border-bottom: dotted gold;
+    border-radius: 50px;
+    outline-offset: 50px;
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 80%;
+    background-color: gold;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0%;
+}

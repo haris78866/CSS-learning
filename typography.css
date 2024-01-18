@@ -1,0 +1,22 @@
+body {
+    padding: 10%;
+    font-size: 2rem;
+}
+
+p
+{
+    text-decoration: overline;
+    text-transform: inherit;
+    text-indent: 2em;
+
+}
+
+
+p{
+    line-height: 1.5;
+    letter-spacing: 0.1em;
+    word-spacing: 1em;
+    font-family:fantasy ;
+    
+}
+

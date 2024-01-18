@@ -1,0 +1,21 @@
+body {
+    font-family: "Roboto" sans-serif;
+  font-size: 2rem;
+}
+
+
+.coloum  p{
+  margin-top: 0%;
+    
+
+}
+
+.coloum  h2{
+   
+      columns: 4px;
+      column-rule-color: aliceblue;
+      padding: 1rem;
+  
+  }
+
+  

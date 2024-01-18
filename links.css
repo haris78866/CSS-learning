@@ -1,0 +1,17 @@
+a {
+    text-decoration: underline;
+    cursor : pointer;
+color : gold;
+}
+
+a  :visited {
+    color: purple;
+}
+
+a  :hover {
+    color: black;
+}
+
+a :active {
+    color: lawngreen;
+}
